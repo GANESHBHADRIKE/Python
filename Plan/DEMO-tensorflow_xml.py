@@ -8,6 +8,7 @@ import dicttoxml
 import xmltodict
 import json  # to convect collection.OrderedDict() to dict()
 import lxml.etree as etree  # for xml pretty_print
+import seaborn  as sb
 
 """
 Need: pip3 install dicttoxml xmltodict (very small and download soon)
